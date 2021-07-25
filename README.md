@@ -12,7 +12,7 @@ In the project directory, you can run:
 
 ### Then install dependencies, by using:
 
-###`npm install`
+### `npm install`
 
 ### Then run the app, by using:
 
