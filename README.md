@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# It is a react based project in which a user can filter data of the todos get from jsonplaceholder.typicode.com api by using different filters
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
